@@ -1,0 +1,12 @@
+body {
+    background-image: url(../img/moroccan-flower-dark.png);
+  }
+   
+  .logo a {
+    color: cornsilk;
+  }
+  
+  .logo a:hover,
+  .logo a:active {
+    text-decoration: none;
+  }
